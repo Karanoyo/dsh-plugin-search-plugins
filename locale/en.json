@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugin List Quick Search",
+    "description": "Provides Ctrl+F / Cmd+F quick search and smooth jump navigation for the plugins page."
+  }
+}

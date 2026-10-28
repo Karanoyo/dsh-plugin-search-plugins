@@ -1,0 +1,5 @@
+# 📦 dsh-plugin-search-plugins bundle patch
+# 💡 把插件行插入 profile 阵容
+- insert:
+    - id: dsh-plugin-search-plugins
+      name: dsh-plugin-search-plugins

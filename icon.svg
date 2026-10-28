@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="插件搜索">
+  <defs>
+    <linearGradient id="渐变_背景" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4d6bfe" />
+      <stop offset="100%" stop-color="#2543e0" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#渐变_背景)" />
+  <circle cx="28" cy="28" r="13" fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" />
+  <line x1="38" y1="38" x2="50" y2="50" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" />
+  <path d="M22 28h12M28 22v12" stroke="rgba(255,255,255,0.7)" stroke-width="2.5" stroke-linecap="round" />
+</svg>
